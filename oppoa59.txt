@@ -1,9 +1,1 @@
-本库来自于安卓手机:
-库名称：crimson
-
-关于ssh公钥声称从未使用：
-首先查看远程仓库
-<git remote -v>
-如果来源是https开头，那么删除这个远程仓库
-从仓库克隆页面新添加ssh链接。
-
+<attachment contenteditable="false" data-atts="%5B%5D" data-aid=".atts-1718c3f2-aaf8-4989-9c65-00df7448fbc2"></attachment><p>本库来自于安卓手机: 库名称：crimson 关于ssh公钥声称从未使用： 首先查看远程仓库  如果来源是https开头，那么删除这个远程仓库 从仓库克隆页面新添加ssh链接。 </p><p><br></p>
